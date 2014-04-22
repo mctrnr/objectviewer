@@ -1,0 +1,85 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.03.2013 22:49:25
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chell_head_diffuse.jpg
+	map_Kd chell_head_diffuse.jpg
+	map_Ks chell_head_spec.jpg
+	map_bump -bm 0.3000 Map__8_Normal_Bump.jpg
+	map_refl Map__24_Falloff.jpg
+
+newmtl Material__36
+	Ns 45.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 1.3500 1.3500 1.3500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka gambler_eyes.jpg
+	map_Kd gambler_eyes.jpg
+	map_bump gambler_eyes_bump.jpg
+	bump gambler_eyes_bump.jpg
+	map_refl Map__24_Falloff.jpg
+
+newmtl Material__38
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chell_torso_diffuse.jpg
+	map_Kd chell_torso_diffuse.jpg
+	map_Ks chell_torso_spec.jpg
+	map_bump -bm 0.3000 Map__16_Normal_Bump.jpg
+	map_refl Map__24_Falloff.jpg
+
+newmtl Material__39
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chell_legs_diffuse.jpg
+	map_Kd chell_legs_diffuse.jpg
+	map_Ks chell_legs_spec.jpg
+	map_bump -bm 0.3000 Map__20_Normal_Bump.jpg
+	map_refl Map__24_Falloff.jpg
+
+newmtl Material__40
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chell_hair.jpg
+	map_Kd chell_hair.jpg
+	map_d chell_hair_opacity.jpg
